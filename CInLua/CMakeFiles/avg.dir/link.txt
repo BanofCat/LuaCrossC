@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/avg.dir/LuaFun.cpp.o  -o avg -rdynamic -llua5.2 

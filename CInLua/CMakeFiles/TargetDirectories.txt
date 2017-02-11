@@ -1,0 +1,3 @@
+/home/ban/Ban/Learning/Lua/CInLua/CMakeFiles/rebuild_cache.dir
+/home/ban/Ban/Learning/Lua/CInLua/CMakeFiles/edit_cache.dir
+/home/ban/Ban/Learning/Lua/CInLua/CMakeFiles/avg.dir

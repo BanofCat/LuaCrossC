@@ -1,0 +1,5 @@
+width = 200
+height = 300
+backbround_red = 0.30
+backbround_green = 0.10
+backbround_blue = 0

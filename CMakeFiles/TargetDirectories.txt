@@ -1,0 +1,4 @@
+/home/ban/Ban/Learning/Lua/CMakeFiles/edit_cache.dir
+/home/ban/Ban/Learning/Lua/CMakeFiles/readTest.dir
+/home/ban/Ban/Learning/Lua/CMakeFiles/rebuild_cache.dir
+/home/ban/Ban/Learning/Lua/CMakeFiles/ctest.dir

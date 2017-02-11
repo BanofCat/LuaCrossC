@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libprintLib.so -o src/libprintLib.so CMakeFiles/printLib.dir/printHello.cpp.o 

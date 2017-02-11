@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/readTest.dir/readDataTest.cpp.o  -o readTest -rdynamic -llua5.1 
